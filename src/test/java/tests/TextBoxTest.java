@@ -36,3 +36,5 @@ public class TextBoxTest {
         $("#output #currentAddress").shouldHave(text("Some address 1"));
     }
 }
+
+//git добавление ключа тест
